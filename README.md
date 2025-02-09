@@ -7,7 +7,7 @@
 
 - How to reach me **sdfghfwwz@gmail.com**
 
-- Big Data & Workflow **Apache Spark, Apache Airflow, NumPy**
+- Big Data & Workflow:  **Apache Spark, Apache Airflow, NumPy**
 
 - Speaking: **English, German, and Korean**
 
