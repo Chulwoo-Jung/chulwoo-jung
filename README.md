@@ -1,13 +1,15 @@
 <h1 align="center">Hi , I'm Chulwoo Jung</h1>
 <h3 align="center">A passionate data engineer from South-Korea</h3>
 
-- 🌱 I’m currently learning **Wirtschaftsinformatik**
+- I’m currently learning **Wirtschaftsinformatik**
 
-- 💬 Ask me about **python,SQL, and AWS**
+- Ask me about **python,SQL, and AWS**
 
-- 📫 How to reach me **sdfghfwwz@gmail.com**
+- How to reach me **sdfghfwwz@gmail.com**
 
-- 👨‍💻 Big Data & Workflow **Apache Spark, Apache Airflow, NumPy**
+- Big Data & Workflow **Apache Spark, Apache Airflow, NumPy**
+
+- Speaking: English, German, and Korean
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
