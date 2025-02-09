@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Chulwoo Jung</h1>
 <h3 align="center">A passionate data engineer from South-Korea</h3>
 
-- I’m currently learning **B.Sc. Information Systems**(Wirtschaftsinformatik)
+- I’m currently studying **B.Sc. Information Systems**(Wirtschaftsinformatik)
 
 - Ask me about **python,SQL, and AWS**
 
