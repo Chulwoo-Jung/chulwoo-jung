@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **B.Sc.Business informatics at TU Berlin**
 
-- 📫 How to reach me **sdfghfwwz@gmail.com**
+- 📫 How to reach me **chulwoo.jung19@gmail.com**
 
 - 🎙️ Speaking: English, German
 
